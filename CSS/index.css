@@ -1,0 +1,16 @@
+div {
+    background-color: #CCCCCC;
+    width: 268px;
+    height: 350px;
+}
+.search {
+    height: 28px;
+    width: 200px;
+}
+button {
+    height: 32px;
+    width: 55px;
+}
+input {
+    color: #757575;
+}
